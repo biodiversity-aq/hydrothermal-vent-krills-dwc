@@ -14,7 +14,7 @@ decimalLatitude and decimalLongitude are exported with exactly four decimal plac
 No specimen capture depths assigned from survey bottom-depth ranges.
 K026 Sex/Stage is --; sex and lifeStage are blank; the source code is preserved in remarks.
 StableIsotopes contains 33 rows for 28 individuals, including only 24 Antarctic Sound individuals.
-Supplementary Methods says all 35 Antarctic Sound individuals were used for isotopes; the workbook does not supply all of those results.
+Supplementary Methods says all 35 Antarctic Sound individuals were used for isotopes; the workbook does not supply all of those results. -> confirmed with author, it should be 24 individuals
 Repeated isotope values are retained as separate measurements with source-row identifiers.
 Delta 13C correction status is not explicit in Table S5; values are exported unchanged.
 K039 Ni is <LOD; K038 P and Zn are flagged above the calibration range in Table S3.
