@@ -1,0 +1,5 @@
+Package: hydrothermalventkrills
+Title: Antarctic Krill Darwin Core Conversion
+Version: 0.1.0
+Description: Reproducible conversion of workbook data to Darwin Core tab-delimited tables.
+Imports: tidyverse, readxl, renv
