@@ -87,8 +87,7 @@ and held in 1-L sample chambers until the ROV was back on deck. Extracted from s
     verbatimCoordinateSystem = "degrees minutes seconds",
     geodeticDatum = "EPSG:4326",
     georeferenceSources = "SourceData.xlsx, Notes sheet",
-    georeferenceRemarks = paste("Site coordinates converted from DMS.",
-                                "Datum and positional uncertainty not reported."),
+    georeferenceRemarks = paste("Site coordinates converted from DMS."),
     eventRemarks = paste0(
       "Expedition FKt241214; Rolling Deck to Repository cruise record: ", cruise_doi, "; dive ", dive, ". ",
       "eventDate records the updated dive date range ", eventDate, ". ",
