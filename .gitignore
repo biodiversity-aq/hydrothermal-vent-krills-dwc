@@ -3,6 +3,3 @@
 .RData
 .Ruserdata
 .DS_Store
-
-# Retain the template's policy of excluding data from version control.
-/data/

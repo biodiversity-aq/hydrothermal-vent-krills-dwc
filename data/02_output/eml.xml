@@ -1,0 +1,411 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" packageId="hydrothermal-vent-krills-dwc.metadata.20260924" system="local" scope="system" xml:lang="en" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd">
+  <!--Source: https://docs.google.com/document/d/1cZpgopS6ZF5-Ru7ryil-qoGKiQAWn0Q1xuRoASq4zFw/export?format=txt . Converted 2026-09-24. The example attachment was unavailable at its supplied path.-->
+  <dataset>
+    <title>Deep Sea hydrothermal vent habitats support gravid Antarctic krill - data</title>
+    <creator>
+      <individualName>
+        <givenName>Kim S.</givenName>
+        <surName>Bernard</surName>
+      </individualName>
+      <organizationName>College of Earth, Ocean, and Atmospheric Sciences, Oregon State University</organizationName>
+      <address>
+        <country>US</country>
+      </address>
+      <electronicMailAddress>kim.bernard@oregonstate.edu</electronicMailAddress>
+      <userId directory="https://orcid.org/">https://orcid.org/0000-0003-0509-2744</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Angelo F.</givenName>
+        <surName>Bernardino</surName>
+      </individualName>
+      <organizationName>Departamento de Oceanografia, Universidade Federal do Espírito Santo</organizationName>
+      <address>
+        <country>BR</country>
+      </address>
+      <userId directory="https://orcid.org/">https://orcid.org/0000-0002-1838-4597</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Kristen N.</givenName>
+        <surName>Buck</surName>
+      </individualName>
+      <organizationName>College of Earth, Ocean, and Atmospheric Sciences, Oregon State University</organizationName>
+      <address>
+        <country>US</country>
+      </address>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Salvatore</givenName>
+        <surName>Caprara</surName>
+      </individualName>
+      <organizationName>College of Earth, Ocean, and Atmospheric Sciences, Oregon State University</organizationName>
+      <address>
+        <country>US</country>
+      </address>
+      <userId directory="https://orcid.org/">https://orcid.org/0000-0002-0949-7020</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>R. Ben</givenName>
+        <surName>Freiberger</surName>
+      </individualName>
+      <organizationName>College of Earth, Ocean, and Atmospheric Sciences, Oregon State University</organizationName>
+      <address>
+        <country>US</country>
+      </address>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Elizabeth</givenName>
+        <surName>Hogan</surName>
+      </individualName>
+      <organizationName>National Geographic Society</organizationName>
+      <address>
+        <country>US</country>
+      </address>
+      <userId directory="https://orcid.org/">https://orcid.org/0009-0004-1338-3546</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Rachel L.</givenName>
+        <surName>Kaplan</surName>
+      </individualName>
+      <organizationName>College of Earth, Ocean, and Atmospheric Sciences, Oregon State University</organizationName>
+      <address>
+        <country>US</country>
+      </address>
+      <userId directory="https://orcid.org/">https://orcid.org/0009-0002-1671-131X</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Aaron</givenName>
+        <surName>Micallef</surName>
+      </individualName>
+      <organizationName>Monterey Bay Aquarium Research Institute</organizationName>
+      <address>
+        <country>US</country>
+      </address>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Laura E.</givenName>
+        <surName>Moore</surName>
+      </individualName>
+      <organizationName>College of Earth, Ocean, and Atmospheric Sciences, Oregon State University</organizationName>
+      <address>
+        <country>US</country>
+      </address>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Sarah</givenName>
+        <surName>Seabrook</surName>
+      </individualName>
+      <organizationName>Department of Marine Science, University of Otago</organizationName>
+      <address>
+        <country>NZ</country>
+      </address>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Andrew R.</givenName>
+        <surName>Thurber</surName>
+      </individualName>
+      <organizationName>Department of Ecology, Evolution and Marine Biology &amp; Marine Science Institute, University of California</organizationName>
+      <address>
+        <country>US</country>
+      </address>
+    </creator>
+    <metadataProvider>
+      <individualName>
+        <givenName>Kim S.</givenName>
+        <surName>Bernard</surName>
+      </individualName>
+      <organizationName>College of Earth, Ocean, and Atmospheric Sciences, Oregon State University</organizationName>
+      <address>
+        <city>Corvallis</city>
+        <country>US</country>
+      </address>
+      <electronicMailAddress>kim.bernard@oregonstate.edu</electronicMailAddress>
+      <userId directory="https://orcid.org/">https://orcid.org/0000-0003-0509-2744</userId>
+    </metadataProvider>
+    <!--Publication date not supplied. Provisional pubDate uses metadata preparation date; replace in IPT when publishing.-->
+    <pubDate>2026-09-24</pubDate>
+    <language>eng</language>
+    <abstract>
+      <para>This sampling-event dataset documents Antarctic krill, Euphausia superba Dana, 1850, collected using ROV SuBastian aboard R/V Falkor (too) during expedition FKt241214. Sampling took place at a hydrothermal vent site at Hook Ridge in Bransfield Strait (dive S0770) and a comparative non-vent site in Antarctic Sound (dive S0767). The expedition interval reported in the Supplementary Materials is 15 December 2024–3 January 2025.</para>
+      <para>The dataset contains 39 individually identified krill: four from Hook Ridge and 35 from Antarctic Sound. Specimen measurements comprise body length, sex/developmental stage, carbon and nitrogen mass fractions, stable isotope values (δ13C and δ15N), and elemental concentrations for subsets of individuals. Four event-level environmental temperature summaries from the paper describe mean bottom temperatures at both sites, the maximum near-vent water temperature at Hook Ridge, and a lower bound for Hook Ridge vent-fluid temperature.</para>
+      <para>The data are organized into three Event records (one parent cruise and two sampling dives), 39 Occurrence records and 325 eMoF records. They support comparison of krill demographics and biochemical signatures between vent and non-vent habitats. They accompany the study “Deep Sea hydrothermal vent habitats support gravid Antarctic krill” (Bernard et al. 2026). Microbial sequence data, Quest Caldera observations and video-based abundance estimates are not included in this dataset.</para>
+      <para>Please follow the guidelines from the SCAR Data Policy (SCAR, 2023) when using the data.</para>
+    </abstract>
+    <keywordSet>
+      <keyword>ANTARCTIC PENINSULA</keyword>
+      <keyword>SOUTHERN OCEAN</keyword>
+      <!--Source geographic terms are classified under GCMD Location Keywords rather than Science Keywords.-->
+      <keywordThesaurus>NASA GCMD Location Keywords: https://gkv-keyword.earthdatacloud.nasa.gov/</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword>Antarctic krill</keyword>
+      <keyword>Euphausia superba</keyword>
+      <keyword>Southern Ocean</keyword>
+      <keyword>Antarctic Peninsula</keyword>
+      <keyword>Bransfield Strait</keyword>
+      <keyword>Antarctic Sound</keyword>
+      <keyword>Hook Ridge</keyword>
+      <keyword>hydrothermal vents</keyword>
+      <keyword>gravid females</keyword>
+      <keyword>morphometrics</keyword>
+      <keyword>stable isotopes</keyword>
+      <keyword>trace elements</keyword>
+      <keyword>environmental temperature</keyword>
+      <keyword>ROV SuBastian</keyword>
+      <keyword>sampling event</keyword>
+      <keywordThesaurus>n/a</keywordThesaurus>
+    </keywordSet>
+    <intellectualRights>
+      <para>This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/.</para>
+    </intellectualRights>
+    <licensed>
+      <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+      <url>https://creativecommons.org/licenses/by/4.0/</url>
+      <identifier>CC-BY-4.0</identifier>
+    </licensed>
+    <coverage>
+      <!--Coverage inferred from local TSVs as requested by the source; temporal extent includes the parent cruise.-->
+      <geographicCoverage>
+        <geographicDescription>Hook Ridge, Bransfield Strait, and Antarctic Sound, Southern Ocean. Bounding coordinates describe sampled sites, not the full cruise track.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-57.2947</westBoundingCoordinate>
+          <eastBoundingCoordinate>-56.6294</eastBoundingCoordinate>
+          <northBoundingCoordinate>-62.1975</northBoundingCoordinate>
+          <southBoundingCoordinate>-63.4000</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+        <rangeOfDates>
+          <beginDate>
+            <calendarDate>2024-12-15</calendarDate>
+          </beginDate>
+          <endDate>
+            <calendarDate>2025-01-03</calendarDate>
+          </endDate>
+        </rangeOfDates>
+      </temporalCoverage>
+      <taxonomicCoverage>
+        <generalTaxonomicCoverage>Antarctic krill (Euphausia superba Dana, 1850).</generalTaxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>species</taxonRankName>
+          <taxonRankValue>Euphausia superba</taxonRankValue>
+          <commonName>Antarctic krill</commonName>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+    </coverage>
+    <maintenance>
+      <description>
+        <para>Update frequency is unknown.</para>
+      </description>
+      <maintenanceUpdateFrequency>unknown</maintenanceUpdateFrequency>
+    </maintenance>
+    <contact>
+      <individualName>
+        <givenName>Kim S.</givenName>
+        <surName>Bernard</surName>
+      </individualName>
+      <organizationName>College of Earth, Ocean, and Atmospheric Sciences, Oregon State University</organizationName>
+      <address>
+        <city>Corvallis</city>
+        <country>US</country>
+      </address>
+      <electronicMailAddress>kim.bernard@oregonstate.edu</electronicMailAddress>
+      <userId directory="https://orcid.org/">https://orcid.org/0000-0003-0509-2744</userId>
+    </contact>
+    <contact>
+      <individualName>
+        <givenName>Yi-Ming</givenName>
+        <surName>Gan</surName>
+      </individualName>
+      <organizationName>Royal Belgian Institute of Natural Sciences</organizationName>
+      <address>
+        <country>BE</country>
+      </address>
+      <electronicMailAddress>data-biodiversity-aq@naturalsciences.be</electronicMailAddress>
+      <userId directory="https://orcid.org/">https://orcid.org/0000-0001-7087-2646</userId>
+    </contact>
+    <publisher>
+      <organizationName>SCAR-AntOBIS (marine)</organizationName>
+    </publisher>
+    <methods>
+      <methodStep>
+        <description>
+          <para>Please refer to the Methods section in the Supplementary Materials of the paper https://doi.org/10.1038/s42003-026-10780-1</para>
+        </description>
+      </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>Sampling covered ROV dives S0767 at Antarctic Sound and S0770 at Hook Ridge during FKt241214. Bottom-depth and temperature observations describe the survey environments. The four Hook Ridge specimens were gravid females; Antarctic Sound specimens included juveniles, males and females.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Krill were collected with the ROV SuBastian suction sampler and held in 1-L sample chambers until recovery aboard R/V Falkor (too). The supplement describes a five-chamber suction sampler operating at 4 L min⁻¹. Krill were actively swimming and in good condition on recovery. Body length was measured from the tip of the rostrum to the end of the uropods (Standard Length 1), followed by sexual maturity staging according to Makarov and Denys (1980). Stomachs were dissected for microbial analyses; krill bodies were subsequently dried at 60 °C for 24 hours. Stable isotope and elemental composition analyses used dried, ground bulk krill tissue and continuous-flow isotope-ratio mass spectrometry (Thermo-Scientific Flash EA IsoLink / Delta-Q) at the Oregon State Stable Isotope Collaboratory. Carbon isotope values are referenced to VPDB and nitrogen isotope values to air. Trace-element analyses used nitric acid/hydrogen peroxide digestion and HR-ICP-MS (Element2 ThermoFisher), with reagent and digestion blank corrections. Environmental instruments described in the supplement include a Sea-Bird FastCAT SBE-49 CTD and SBE-3 thermistor (1 Hz, ±0.002 °C), mounted 0.5 m above the skid, and a PT-100 high-temperature probe on the starboard manipulator. Temperature records in this dataset are published environmental summaries; the exact sensor attribution and summary uncertainty are not specified.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Processing checks cover unique Event, Occurrence and measurement identifiers; a self-contained cruise/dive hierarchy; matching event–occurrence links; consistent sites between workbook sheets; and expected record counts. P01 (NERC vocabularies) measurement identifiers are assigned to the measurement types whenever possible.</para>
+          <para>Repeated isotope measurements are retained without averaging. The missing sex/stage code “--” is preserved in occurrence remarks and not interpreted biologically. K039 nickel is retained as “&lt;LOD”. K038 phosphorus and zinc are flagged as above the upper calibration range in Supplementary Table S3. The vent-fluid value “&gt;200” is retained as a lower bound. No uncertainty is inferred from instrument accuracy for the published temperature summaries.</para>
+          <para>eventDate in ISO8601 compliant</para>
+          <para>WoRMS LSID assigned to each scientificName.</para>
+        </description>
+      </qualityControl>
+    </methods>
+    <project id="NGS-112184R-24">
+      <title>National Geographic Society award NGS-112184R-24</title>
+      <personnel>
+        <individualName>
+          <givenName>Kim S.</givenName>
+          <surName>Bernard</surName>
+        </individualName>
+        <userId directory="https://orcid.org/">https://orcid.org/0000-0003-0509-2744</userId>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>This project is funded by the National Geographic Society through award NGS-112184R-24.</para>
+      </abstract>
+      <relatedProject id="NGS-110651R-24">
+        <title>National Geographic Society award NGS-110651R-24</title>
+        <personnel>
+          <individualName>
+            <givenName>Andrew R.</givenName>
+            <surName>Thurber</surName>
+          </individualName>
+          <role>author</role>
+        </personnel>
+        <abstract>
+          <para>This project is funded by the National Geographic Society through award NGS-110651R-24.</para>
+        </abstract>
+      </relatedProject>
+      <relatedProject id="OCE-2300915">
+        <!--Missing source title supplied from the award description.-->
+        <title>National Science Foundation award OCE-2300915</title>
+        <personnel>
+          <individualName>
+            <givenName>Kristen N.</givenName>
+            <surName>Buck</surName>
+          </individualName>
+          <role>author</role>
+        </personnel>
+        <personnel>
+          <individualName>
+            <givenName>Salvatore</givenName>
+            <surName>Caprara</surName>
+          </individualName>
+          <userId directory="https://orcid.org/">https://orcid.org/0000-0002-0949-7020</userId>
+          <role>author</role>
+        </personnel>
+        <personnel>
+          <individualName>
+            <givenName>R. Ben</givenName>
+            <surName>Freiberger</surName>
+          </individualName>
+          <role>author</role>
+        </personnel>
+        <personnel>
+          <individualName>
+            <givenName>Laura E.</givenName>
+            <surName>Moore</surName>
+          </individualName>
+          <role>author</role>
+        </personnel>
+        <abstract>
+          <para>This project is funded by the National Science Foundation through award OCE-2300915.</para>
+        </abstract>
+      </relatedProject>
+      <relatedProject id="PLR-2317664">
+        <title>National Science Foundation award PLR-2317664</title>
+        <personnel>
+          <individualName>
+            <givenName>Kristen N.</givenName>
+            <surName>Buck</surName>
+          </individualName>
+          <role>author</role>
+        </personnel>
+        <personnel>
+          <individualName>
+            <givenName>Salvatore</givenName>
+            <surName>Caprara</surName>
+          </individualName>
+          <userId directory="https://orcid.org/">https://orcid.org/0000-0002-0949-7020</userId>
+          <role>author</role>
+        </personnel>
+        <personnel>
+          <individualName>
+            <givenName>R. Ben</givenName>
+            <surName>Freiberger</surName>
+          </individualName>
+          <role>author</role>
+        </personnel>
+        <abstract>
+          <para>This project is funded by the National Science Foundation through award PLR-2317664.</para>
+        </abstract>
+      </relatedProject>
+      <relatedProject id="OPP-2535603">
+        <title>National Science Foundation award OPP-2535603</title>
+        <personnel>
+          <individualName>
+            <givenName>Andrew R.</givenName>
+            <surName>Thurber</surName>
+          </individualName>
+          <role>author</role>
+        </personnel>
+        <abstract>
+          <para>This project is funded by the National Science Foundation through award OPP-2535603.</para>
+        </abstract>
+      </relatedProject>
+      <relatedProject>
+        <title>David and Lucile Packard Foundation support</title>
+        <personnel>
+          <individualName>
+            <givenName>Aaron</givenName>
+            <surName>Micallef</surName>
+          </individualName>
+          <role>author</role>
+        </personnel>
+        <abstract>
+          <para>This project is funded by the David and Lucile Packard Foundation.</para>
+        </abstract>
+      </relatedProject>
+      <relatedProject id="RT/23/ADVANCE">
+        <title>Antarctic bioDiVersity dAta iNfrastruCturE (ADVANCE)</title>
+        <personnel>
+          <individualName>
+            <givenName>Yi-Ming</givenName>
+            <surName>Gan</surName>
+          </individualName>
+          <userId directory="https://orcid.org/">https://orcid.org/0000-0001-7087-2646</userId>
+          <role>custodianSteward</role>
+        </personnel>
+        <abstract>
+          <para>ADVANCE aims to create a Virtual Research infrastructure (VRI) for the Antarctic and Southern Ocean (ASO) region that converts biodiversity data into research and policy-relevant data products. This dataset is published as open data with technical support provided by SCAR Antarctic Biodiversity Portal (biodiversity.aq) under ADVANCE project</para>
+        </abstract>
+      </relatedProject>
+    </project>
+  </dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2026-09-24T00:00:00Z</dateStamp>
+        <hierarchyLevel>dataset</hierarchyLevel>
+        <bibliography>
+          <citation identifier="https://doi.org/10.5281/zenodo.7825314">The Scientific Committee on Antarctic Research. (2023). SCAR Report 42 - September 2022 - SCAR Data Policy (2022). Zenodo. https://doi.org/10.5281/zenodo.7825314</citation>
+          <citation>Makarov, R. R. &amp; Denys, C. J. Stages of Sexual Maturity of Euphausia Superba Dana. 13 (1980).</citation>
+          <citation identifier="https://doi.org/10.1038/s42003-026-10780-1">Bernard, K.S., Bernardino, A.F., Buck, K.N. et al. Deep Sea hydrothermal vent habitats support gravid Antarctic krill. Commun Biol 9, 1129 (2026). https://doi.org/10.1038/s42003-026-10780-1</citation>
+          <citation identifier="https://doi.org/10.6084/m9.figshare.32978291.v1">Bernard, Kim. 2026. “Hydrothermal Vent Signatures in Gravid Antarctic Krill”. figshare. doi:10.6084/m9.figshare.32978291.v1.</citation>
+        </bibliography>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

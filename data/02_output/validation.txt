@@ -1,0 +1,11 @@
+PASS: unique Event, Occurrence and Measurement identifiers
+PASS: all parentEventID links resolve within the Event core; cruise is the single root
+PASS: dive eventDate matches configured site metadata: S0767 2024-12-21/22; S0770 2024-12-26/27
+NOTE: date checks confirm configured values, not independent verification of collection dates or times.
+NOTE: georeference remarks conflict with EPSG:4326.
+PASS: all occurrences reference an Event
+PASS: all measurements reference Events; specimen measurements reference matching Event/Occurrence pairs
+PASS: 3 events (1 cruise + 2 dives); 39 occurrences; 325 measurements (321 specimen + 4 environmental temperatures)
+PASS: Event TSV has one physical line per record and consistent tab counts
+PASS: isotope repeats retained; one <LOD retained
+PASS: 212 P01 mappings; 112 trace-element records and one vent-fluid temperature unmapped

@@ -1,0 +1,23 @@
+Source workbook MD5: 1489e0775e85178de161adf02f258409
+Source publication: https://doi.org/10.1038/s42003-026-10780-1
+Parent cruise eventDate: 2024-12-15/2025-01-03 (expedition interval from Supplementary Methods p.1).
+Updated dive eventDate: S0767 (Antarctic Sound) = 2024-12-21/22. These are dive date ranges, not individual collection times.
+Updated dive eventDate: S0770 (Hook Ridge) = 2024-12-26/27. These are dive date ranges, not individual collection times.
+Event remarks describe the updated dive date ranges; individual specimen collection times remain unavailable.
+Dive geodeticDatum is EPSG:4326; positional uncertainty is empty. Georeference remarks still state that the datum was not reported; datum attribution needs confirmation.
+P01 IDs assigned to 212 measurements; 112 trace-element IDs and one vent-fluid temperature ID remain unresolved. See references/p01-mappings.md.
+Four event-level temperature records transcribed from the paper p.2: Antarctic Sound mean bottom -1.35 C; Hook Ridge mean bottom -1.21 C, near-vent maximum 1.38 C, vent fluid >200 C. Empty occurrenceID denotes environmental context, not individual exposure.
+Event parentEventID links both dives to cruise FKt241214 at https://doi.org/10.7284/910878
+The cruise is included as the root Event record with an empty parentEventID; all parent links resolve within the Event core.
+Event text whitespace is flattened for one-line-per-record UTF-8 tab-delimited import.
+decimalLatitude and decimalLongitude are exported with exactly four decimal places; missing coordinates are empty.
+No specimen capture depths assigned from survey bottom-depth ranges.
+K026 Sex/Stage is --; sex and lifeStage are blank; the source code is preserved in remarks.
+StableIsotopes contains 33 rows for 28 individuals, including only 24 Antarctic Sound individuals.
+Supplementary Methods says all 35 Antarctic Sound individuals were used for isotopes; the workbook does not supply all of those results.
+Repeated isotope values are retained as separate measurements with source-row identifiers.
+Delta 13C correction status is not explicit in Table S5; values are exported unchanged.
+K039 Ni is <LOD; K038 P and Zn are flagged above the calibration range in Table S3.
+Trace-metal reference LODs for 50/100 mg are not individual sample-specific tissue LODs.
+Quest Caldera observations and microbial sequence data are outside this workbook and are not added.
+Outputs are standalone TSV tables; see README for publication metadata limitations.
