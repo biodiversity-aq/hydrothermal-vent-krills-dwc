@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1385135898.svg)](https://doi.org/10.5281/zenodo.22939289)
+
 # Hydrothermal vent krills — Darwin Core
 
 ## Reproduce
